@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Azure",
+    "location": "Istanbul, Türkiye",
+    "address": "Bosphorus  123",
+    "description": "A luxury hotel with Bosphorus view.",
+    "amenities": [
+      "Free WIFI",
+      "Swimming Pool",
+      "SPA",
+      "GYM",
+      "Restaurant"
+    ],
+    "rating": 2.8,
+    "price_per_night": 150,
+    "availability": true,
+    "image_url": "/pic1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mountain Retreat",
+    "location": "Rize, Türkiye",
+    "address": "Highland  789",
+    "description": "A peaceful holiday destination in the mountains, perfect for nature lovers.",
+    "amenities": [
+      "Free WIFI",
+      "Hiking Trails",
+      "Fireplace",
+      "Pet Allows"
+    ],
+    "rating": 4.5,
+    "price_per_night": 120,
+    "availability": true,
+    "image_url": "/pic2.webp"
+  },
+  {
+    "id": 3,
+    "name": "City Center Apartment",
+    "location": "Ankara, Türkiye",
+    "address": "Capital 456",
+    "description": "A modern apartment in the city centre.",
+    "amenities": [
+      "Free WIFI",
+      "Kitchen",
+      "Air conditioning",
+      "Loundry"
+    ],
+    "rating": 4.2,
+    "price_per_night": 90,
+    "availability": false,
+    "image_url": "/pic3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Seaside Villa",
+    "location": "Izmir, Türkiye",
+    "address": "321. street",
+    "description": "A beautiful villa with private beach access and stunning sea views.",
+    "amenities": [
+      "Free WIFI",
+      "Private Beach",
+      "Swimming Pool",
+      "Air conditioning",
+      "BBQ"
+    ],
+    "rating": 4.9,
+    "price_per_night": 200,
+    "availability": true,
+    "image_url": "/pic4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Budget Hostel",
+    "location": "Izmir, Türkiye",
+    "address": "Budget 654.",
+    "description": "A budget-friendly hostel in the city center, close to all attractions.",
+    "amenities": ["Free WIFI", "Kitchen", "Loundry", "BBQ"],
+    "rating": 3.8,
+    "price_per_night": 25,
+    "availability": true,
+    "image_url": "/pic5.webp"
+  },
+  {
+    "id": 6,
+    "name": "Pool Villa",
+    "location": "Istanbul",
+    "address": "Maltepe",
+    "description": "A spacious villa...",
+    "amenities": ["Cinema", "Pool", "wifi", "Breakfast", "GYM"],
+    "rating": 4.1,
+    "price_per_night": 350,
+    "availability": true,
+    "image_url": "https://picsum.photos/429/429"
+  },
+  {
+    "name": "Sheraton ",
+    "location": "Ankara",
+    "address": "Ankara,Cankaya",
+    "description": "The best hotel in the Ankara",
+    "amenities": ["Pool", " Free WIFI", "Air conditioning"],
+    "rating": 4.4,
+    "price_per_night": 100,
+    "availability": true,
+    "id": "8772bada-37cb-438f-90fa-00db6151f522",
+    "image_url": "https://picsum.photos/489/489"
+  },
+  {
+    "name": "Hilton Hotel",
+    "location": "İzmir",
+    "address": "Urla",
+    "description": "A beautiful hotelwith private beach access and stunning sea views. Close to beach",
+    "amenities": ["Private Beach", " SPA", " Free WIFI", " BBQ"],
+    "rating": 4.7,
+    "price_per_night": 135,
+    "availability": true,
+    "id": "e424137e-188e-448a-9fc7-71af5d082833",
+    "image_url": "https://picsum.photos/476/476"
+  },
+  {
+    "name": "Fatih Motel",
+    "location": "Istanbul",
+    "address": "321 street",
+    "description": "A budget-friendly hostel in the city center, close to all attractions.",
+    "amenities": ["Parking Car", " Free WIFI"],
+    "rating": 3.1,
+    "price_per_night": 50,
+    "availability": true,
+    "id": "8a2f5350-d82d-403f-a6bd-ba970c6014d0",
+    "image_url": "https://picsum.photos/496/496"
+  }
+]
