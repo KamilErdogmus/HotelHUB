@@ -28,8 +28,8 @@ A hotel booking application built with React Vite and TypeScript. It allows user
 
 ## Elements
 
-- [Button](https://uiverse.io/elijahgummer/thin-rabbit-53)A visually appealing button element used in the application.
-- [Loader](https://uiverse.io/devAaus/funny-catfish-94)
+- [Button](https://uiverse.io/elijahgummer/thin-rabbit-53) :A visually appealing button element used in the application.
+- [Loader](https://uiverse.io/devAaus/funny-catfish-94) :A custom loader animation for indicating loading states.
 
 ## Preview
 
