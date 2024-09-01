@@ -28,16 +28,12 @@ A hotel booking application built with React Vite and TypeScript. It allows user
 
 ## Elements
 
-- [Button](https://uiverse.io/elijahgummer/thin-rabbit-53)A visually appealing button element used in the application.
-- [Loader](https://uiverse.io/devAaus/funny-catfish-94)
+- [Button](https://uiverse.io/elijahgummer/thin-rabbit-53) :A visually appealing button element used in the application.
+- [Loader](https://uiverse.io/devAaus/funny-catfish-94) :A custom loader animation for indicating loading states.
 
 ## Preview
 
 ![](/public//GIF.gif)
-
-## Deployment
-
-The project is deployed and can be accessed [](). For the project to run smoothly, please follow the installation steps below to set it up locally.The project may behave differently across different browsers.
 
 ## Installation
 
